@@ -9,3 +9,5 @@ LINKS INTERESSANTES
 4 - Faculdade grátis https://univesp.br/cursos
 
 5 - Documentação Autogui - https://pyautogui.readthedocs.io/en/latest/ 
+
+6 - Disco de cores para combinações https://color.adobe.com/pt/create/color-wheel
